@@ -34,7 +34,7 @@ To stay updated on the progress of our tasks and upcoming milestones, make sure 
 
 - Official Website: [https://wagmi11.com/](https://wagmi11.com/)
 - Telegram: [https://t.me/wagmi11](https://t.me/wagmi11)
-- Telegram TWA: [@ton_wagmi11_test_bot](https://t.me/@ton_wagmi11_test_bot)
+- Telegram TWA: [@ton_wagmi11_test_bot](https://t.me/ton_wagmi11_test_bot)
 - Twitter: [https://twitter.com/wagmi_11](https://x.com/wagmi_11)
 - Discord: [https://discord.com/invite/EUKwQy4P96](https://discord.com/invite/EUKwQy4P96)
 
