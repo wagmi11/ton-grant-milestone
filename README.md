@@ -1,6 +1,9 @@
 
 # Wagmi11 Community Milestone Update - [Status : Milestone 01 Completed!🎉]
 
+![App screens](https://github.com/wagmi11/ton-grant-milestone/assets/58180803/06e7b8cc-68e6-49eb-b236-49c28cd2ea64)
+
+
 Dear Wagmi11 Community,
 
 We are excited to share a significant achievement in our journey to create a thriving and innovative platform on the TON blockchain. We have successfully completed **Milestone 01**, which involved the development of the **Wagmi11 Telegram WebApp UI/UX**. This milestone marks a crucial step forward in our mission to revolutionize prediction markets and contests on the TON ecosystem.
