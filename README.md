@@ -1,5 +1,5 @@
 
-# Wagmi11 Community Milestone Update - Milestone 01 Completed!
+# Wagmi11 Community Milestone Update - [Status : Milestone 01 Completed!🎉]
 
 Dear Wagmi11 Community,
 
@@ -34,7 +34,8 @@ To stay updated on the progress of our tasks and upcoming milestones, make sure 
 
 - Official Website: [https://wagmi11.com/](https://wagmi11.com/)
 - Telegram: [https://t.me/wagmi11](https://t.me/wagmi11)
-- Twitter: [https://twitter.com/wagmi11](https://twitter.com/wagmi11)
+- Telegram TWA: [https://t.me/@ton_wagmi11_test_bot](@ton_wagmi11_test_bot)
+- Twitter: [https://twitter.com/wagmi11](https://x.com/wagmi_11)
 - Discord: [https://discord.com/invite/EUKwQy4P96](https://discord.com/invite/EUKwQy4P96)
 
 We will be sharing regular updates, exciting announcements, and opportunities for community involvement.
