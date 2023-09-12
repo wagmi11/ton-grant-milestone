@@ -1,5 +1,17 @@
 
-# Wagmi11 Community Milestone Update - [Status : Milestone 01 Completed!🎉]
+# Wagmi11 Project Update! - [Status : September Update🎉]
+
+As we dive deeper into the future of decentralized predictions, we're thrilled to share some monumental milestones:
+
+🔗 Integration of @wallet - September 2023: And now, in September 2023, we're integrating @wallet into Wagmi11. Managing your crypto assets within our platform has never been this convenient and secure. 
+
+🌐 Close Alpha on Main Net - September 2023: It's official! Our close alpha release on the main net is live since September 9th, 2023. Experience the power of decentralized predictions right now! Join us and be part of this crypto revolution. 
+
+🎨 Revamp of the UI/UX - August 2023: In August, we turned our attention to your experience. The result? A sleek, intuitive, and visually stunning interface that makes predicting a breeze. 
+
+🌠 Testnet Release - July 2023: Back in July, we set the stage with our testnet release, giving you a taste of what's to come. Thousands of predictions were made, refining our platform for you.
+
+
 
 ![App screens](https://github.com/wagmi11/ton-grant-milestone/assets/58180803/06e7b8cc-68e6-49eb-b236-49c28cd2ea64)
 
