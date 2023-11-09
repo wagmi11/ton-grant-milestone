@@ -1,3 +1,20 @@
+# Wagmi11 Project Update! - [Status : October Update🚀]
+
+
+Welcome to Wagmi11, where decentralized predictions meet innovation! As we stride confidently into the future, we're thrilled to share some remarkable achievements and updates from the past month.
+
+📊 New Profile Pages - 
+October 2023 brings a personal touch to your Wagmi11 experience! Introducing profile pages for our Trusted Wagmi11 Agents (TWA). Now, you can customize your journey, keep track of your accomplishments, and proudly share your stats with the vibrant Wagmi11 community.
+
+🏆 Global Leaderboard - 
+Get ready for some friendly competition! Our Telegram web app now features a global leaderboard. Witness the rise of top performers, track user points, and bask in the glory of healthy competition within our growing community.
+
+🚀 History Page Optimization - 
+Your feedback matters! Thanks to your valuable input, our dedicated team has worked tirelessly to optimize the history page. Brace yourself for a lightning-fast experience, with an impressive 85% reduction in real time updates. Your history updates at the speed of thought!
+
+⭐️ TON Grant Completion - 
+October 2023 marks a major milestone in our journey. We're excited to announce the successful completion of Milestones 2 and 3 for TON grants. This accomplishment underscores our unwavering commitment to growth and continuous improvement.
+
 
 # Wagmi11 Project Update! - [Status : September Update🎉]
 
